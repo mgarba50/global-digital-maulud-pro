@@ -1,11 +1,6 @@
-# dependencies
-node_modules
+﻿node_modules
 .next
-
-# local env
 .env.local
-
-# misc
 .DS_Store
 npm-debug.log*
 yarn-error.log*
