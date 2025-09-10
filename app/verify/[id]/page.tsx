@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getSupabase } from "../../lib/supabaseServer";
+import { getSupabase } from "https://xlwlrpoxqaezffyyomgb.supabase.co";
 
 export const metadata: Metadata = { title: "Verify Certificate – Global Digital Maulud" };
 
